@@ -1,0 +1,14 @@
+body {
+background-color: #b6fe65;
+text-align: center;
+}
+
+img {
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+
+.subHeadings {
+	text-align: center;
+}
